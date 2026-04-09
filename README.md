@@ -24,10 +24,11 @@ I sit at the intersection of **Power Systems** and **Artificial Intelligence**. 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunaljeetmuduli&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaljeetmuduli&layout=compact&theme=radical&hide=html,css" alt="Langs" />
+### 📊 GitHub Activity & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Total_Contributions-Calculating-orange?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Placement_Status-Preparing-success?style=flat-square" />
 </p>
 
 ---
