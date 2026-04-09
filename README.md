@@ -8,7 +8,7 @@ I sit at the intersection of **Power Systems** and **Artificial Intelligence**. 
 
 ### 🚀 What I'm up to...
 - 🔭 **Research:** AI-based forecasting for microgrids (XGBoost + LSTM + DQN).
-- 💻 **Building:** Real-time communication apps and cyber-risk analyzers.
+- 💻 **Building:** Real-time communication and ai apps.
 - 📚 **Learning:** Advanced Data Structures & Reinforcement Learning.
 - ⚽ **Life:** Football on the pitch, CoD on the OLED.
 
