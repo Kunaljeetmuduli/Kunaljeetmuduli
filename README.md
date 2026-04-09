@@ -26,15 +26,13 @@ I sit at the intersection of **Power Systems** and **Artificial Intelligence**. 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunaljeetmuduli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaljeetmuduli&layout=compact&theme=tokyonight&hide=html,css" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunaljeetmuduli&show_icons=true&theme=tokyonight&count_private=true" alt="Kunaljeet's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunaljeetmuduli&layout=compact&theme=tokyonight&hide=html,css" alt="Kunaljeet's Languages" />
 </p>
 
 ---
 
 ### 🐍 The Contribution Snake
-![gh-snake](https://github-user-contribution-snake.vercel.app/api/combined?github_user=Kunaljeetmuduli&color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kunaljeetmuduli&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://github-user-contribution-snake.vercel.app/api/combined?github_user=Kunaljeetmuduli&color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9" alt="snake" />
 </p>
