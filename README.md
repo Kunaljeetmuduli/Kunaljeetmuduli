@@ -3,8 +3,9 @@
 ### ⚡ Electrical Engineer | AI/ML | Full Stack Developer | Football⚽
 
 I am a 3rd-year student at IIIT Bhubaneswar focused on building creative AI projects and developing intelligent software solutions. I enjoy contributing to the academic community through technical writing, having successfully published one paper with another currently in development. When I am not coding, I stay active on the football pitch and enjoy competitive gaming.
-
 ---
+📜Publications
+* **[Astro’s Web Architecture: A Paradigm Shift in Performance-Optimized Web Development](https://ieeexplore.ieee.org/document/11338002)** | *IEEE Xplore*
 ---
 
 ### 🛠️ Tech Stack & Tools
