@@ -1,17 +1,12 @@
 # Hi there, I'm Kunaljeet! 👋 
 
-### ⚡ Electrical Engineer | AI/ML Researcher | Full Stack Dev
+### ⚡ Electrical Engineer | AI/ML | Full Stack Developer | Football⚽
 
 I sit at the intersection of **Power Systems** and **Artificial Intelligence**. Currently focusing on optimizing renewable energy grids and surviving placement season.
 
 ---
 
-### 🚀 What I'm up to...
-- 🔭 **Research:** AI-based forecasting for microgrids (XGBoost + LSTM + DQN).
-- 💻 **Building:** Real-time communication and ai apps.
-- 📚 **Learning:** Advanced Data Structures & Reinforcement Learning.
-- ⚽ **Life:** Football on the pitch, CoD on the OLED.
-
+I am a 3rd-year student at IIIT Bhubaneswar focused on building creative AI projects and developing intelligent software solutions. I enjoy contributing to the academic community through technical writing, having successfully published one paper with another currently in development. When I am not coding, I stay active on the football pitch and enjoy competitive gaming.
 ---
 
 ### 🛠️ Tech Stack & Tools
